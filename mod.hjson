@@ -1,4 +1,4 @@
-displayName: "Mapping Utilities"
+displayName: "Mapping Utilities Port"
 
 name: "mapping-utilities"
 
@@ -8,32 +8,15 @@ main: "mu.MapUtilitiesMod"
 
 description: 
     '''
-    > This is an enhanced remake of old Mapping Utilities, however, it's WIP, so it has way less features yet. Currently i am trying to implement some acceptable old mod's features into vanilla through pull requests, but the all the controversial features and bypasses will remain a part of this mod.
-
-
-    Small Mindustry mod improving map editor convenience and possibilities
-    Maps created with this mod are fully compatible with vanilla
-
-
-    Improvements:
-
-    - More Rules Available
-    - Planet Background Editing
-    - Map Size bypass
-
-
-    Check README.md in GitHub repo for more detailed information about these features
-
-    ! Work In Progress !
-    More map making tools will be added in future
+    This is a Ported repo of ApsZoldat's map editor mod. This mod will stay listed until the creator's mod is updated to V8 "154".
     '''
 
-repo: "ApsZoldat/MindustryMappingUtilities"
+repo: "JJTheCold/MindustryMappingUtilities"
 
 version: 1.8
 
-minGameVersion: 147
+minGameVersion: 154
 
 java: true
 
-hidden: true
+hidden: false
