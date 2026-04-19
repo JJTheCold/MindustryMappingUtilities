@@ -8,7 +8,7 @@ main: "mu.MapUtilitiesMod"
 
 description: 
     '''
-    This is a Ported repo of ApsZoldat's map editor mod. This mod will stay listed until the creator's mod is updated to V8 "154".
+    This is a Ported repo of ApsZoldat's map editor mod. This mod will stay listed until the creator's mod is updated to V8.
     '''
 
 repo: "JJTheCold/MindustryMappingUtilities"
