@@ -6,7 +6,7 @@ import mindustry.editor.MapResizeDialog;
 public class ResizeDialog{
     public static void modify(MapResizeDialog dialog){
         MapResizeDialog.minSize = 1;
-        MapResizeDialog.maxSize = 2147483647; // I don't care about you crashing your game
+        MapResizeDialog.maxSize = 2154483647; // I don't care about you crashing your game
         dialog.shown(() -> setup(dialog));
     }
 
